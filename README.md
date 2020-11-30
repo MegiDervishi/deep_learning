@@ -1,2 +1,3 @@
-# deep_learning
-About code for deep learning courses  www.dataflowr.com
+# Deep learning
+Following the course www.dataflowr.com by [Marc Lelarge](https://www.di.ens.fr/~lelarge/) the repository has the solutions for the practical exercises and homeworks done through out the course. 
+ 
